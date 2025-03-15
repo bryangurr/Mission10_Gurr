@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|c:\\users\\bryan\\box\\2025 winter\\is 413\\mission10_gurr\\backend\\mission10_gurr\\mission10_gurr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|solutionrelative:mission10_gurr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|c:\\users\\bryan\\box\\2025 winter\\is 413\\mission10_gurr\\backend\\mission10_gurr\\mission10_gurr\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|solutionrelative:mission10_gurr\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|c:\\users\\bryan\\box\\2025 winter\\is 413\\mission10_gurr\\backend\\mission10_gurr\\mission10_gurr\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|solutionrelative:mission10_gurr\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|c:\\users\\bryan\\box\\2025 winter\\is 413\\mission10_gurr\\backend\\mission10_gurr\\mission10_gurr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F87E40D1-3497-4891-9167-D0216980CBBE}|Mission10_Gurr\\Mission10_Gurr.csproj|solutionrelative:mission10_gurr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_Gurr\\Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Program.cs",
+              "RelativeToolTip": "Mission10_Gurr\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:03:51.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_Gurr\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_Gurr\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T22:54:51.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Mission10_Gurr\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Mission10_Gurr\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:47:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Gurr\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\bryan\\Box\\2025 Winter\\IS 413\\Mission10_Gurr\\backend\\Mission10_Gurr\\Mission10_Gurr\\Data\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Gurr\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:14:50.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
