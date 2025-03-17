@@ -19,8 +19,11 @@ namespace Mission10_Gurr.Controllers
         [HttpGet(Name ="GetBowlers")]
         public IEnumerable<Bowler> Get()
         {
+            var validTeams = new List<string> {"Marlins", "Sharks"};
+
             var BowlerList = _BowlerContext.Bowlers
                 .Include(b => b.Team)
+                .Where(b => validTeams.Contains(b.Team.TeamName))
                 .ToList();
             return BowlerList;
         }
